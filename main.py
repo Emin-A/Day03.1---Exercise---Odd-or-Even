@@ -1,0 +1,1 @@
+# Odd or Even   ( % - Modulo will give the remainder of two divided numbers)
